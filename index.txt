@@ -1,3 +1,6 @@
 Hello World!
 
 Nossa primeira alteração neste arquivio!!!
+
+
+Entendendo que todas as alterações realizadas em uma branch atualiza realmente a master.
