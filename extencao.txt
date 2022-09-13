@@ -1,0 +1,1 @@
+Criando um novo aquivo direto do  terminal  on-line para gerar uma difer  com o terminal loca l e assim realizar um  git pull e manter as duas versões identicas. 
